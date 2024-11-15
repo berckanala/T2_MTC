@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1731630924.35298 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" "build/main.pdf" "main" 1731630925.85386 0
+["pdflatex"] 1731632664.27482 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" "build/main.pdf" "main" 1731632665.94528 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730821043 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/A/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1710856774 24221282 a5876e0c9e755de8e44ee96826d1c75a ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -149,12 +149,13 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "GRAFICOS/P1A.png" 1731632567 63037 e28f936622218b210ae53e163a6e7040 ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/main.aux" 1731630925 434 4f56fb57ac3feca9784520abf35addad "pdflatex"
-  "build/main.out" 1731630925 106 e62c6d918433d5aad12cd53cdefe43a7 "pdflatex"
-  "build/main.toc" 1731630925 99 f9dd529c5911d06e270c7594b0174db7 "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" 1731630924 8590 7a8db04a572230ed855e6387e27bb789 ""
-  "main.tex" 1731630924 8590 7a8db04a572230ed855e6387e27bb789 ""
+  "build/main.aux" 1731632665 804 b40210a0d2c83c2f6add47f50f667cab "pdflatex"
+  "build/main.out" 1731632665 293 30b9591738a45bc794395636446230d9 "pdflatex"
+  "build/main.toc" 1731632665 183 9d78cb772f0b65602d95f37fc94b3c16 "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" 1731632661 8840 8ae0f7b7847def69e36847187d44b435 ""
+  "main.tex" 1731632661 8840 8ae0f7b7847def69e36847187d44b435 ""
   (generated)
   "build/main.aux"
   "build/main.log"
