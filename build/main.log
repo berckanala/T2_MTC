@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.19)  14 NOV 2024 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.19)  17 NOV 2024 18:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,7 +693,7 @@ Package hyperref Info: Link coloring ON on input line 61.
 \openout4 = `main.out'.
 
 \c@lstlisting=\count336
-<LOGO_UNIVERSIDAD.jpg, id=14, 682.9515pt x 247.6452pt>
+<LOGO_UNIVERSIDAD.jpg, id=146, 682.9515pt x 247.6452pt>
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
 Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 72.
@@ -703,6 +703,14 @@ Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 72.
 {C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./LOGO_UNIVERSIDAD.jpg>] (c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
+
+
+LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 15.
+
+
+LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 15.
+
+Missing character: There is no ² in font cmr10!
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -723,21 +731,87 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has b
                    \relax 
 l.130 \newpage
                [1]
-<GRAFICOS/P1A.png, id=32, 383.031pt x 417.35925pt>
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 166.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+ [2]
+
+LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 177.
+
+
+LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 177.
+
+Missing character: There is no ² in font cmr10!
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 177.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 177.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 203.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 203.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 203.
+
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 206.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+[3]
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 233.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+ [4]
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 243.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+ [5]
+<GRAFICOS/P1A.png, id=220, 383.031pt x 417.35925pt>
 File: GRAFICOS/P1A.png Graphic file (type png)
 <use GRAFICOS/P1A.png>
-Package pdftex.def Info: GRAFICOS/P1A.png  used on input line 135.
+Package pdftex.def Info: GRAFICOS/P1A.png  used on input line 249.
 (pdftex.def)             Requested size: 443.57848pt x 483.36647pt.
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 140.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 263.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
- [2
+ [6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.140 \end{document}
-                     <./GRAFICOS/P1A.png>] (c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.aux
+l.263 \newpage
+               <./GRAFICOS/P1A.png>]
+Overfull \hbox (77.1302pt too wide) in paragraph at lines 272--304
+ [][] 
+ []
+
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 313.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+[7
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.313 
+      ]
+File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
+<use LOGO_UNIVERSIDAD.jpg>
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 314.
+(pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
+ [8] (c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -746,20 +820,20 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 30B9591738A45BC794395636446230D9;293.
+(rerunfilecheck)             Checksum: 3C9378A8448C6043646A774D095424BF;7916.
  ) 
 Here is how much of TeX's memory you used:
- 23993 strings out of 474486
- 439058 string characters out of 5747519
- 1929542 words of memory out of 5000000
- 45865 multiletter control sequences out of 15000+600000
- 560647 words of font info for 45 fonts, out of 8000000 for 9000
+ 24090 strings out of 474486
+ 440717 string characters out of 5747519
+ 1943542 words of memory out of 5000000
+ 45920 multiletter control sequences out of 15000+600000
+ 561322 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,93p,641b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.pdf" (4 pages, 289907 bytes).
+ 84i,16n,93p,800b,538s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\A\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\A\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+Output written on "c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.pdf" (10 pages, 381744 bytes).
 PDF statistics:
- 58 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 39 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
 
