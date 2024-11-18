@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  18 NOV 2024 17:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  18 NOV 2024 17:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -781,69 +781,69 @@ Overfull \hbox (5.97972pt too wide) in paragraph at lines 240--287
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 304.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 305.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [5
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.304 \end{table}
+l.305 \end{table}
                  ]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 306.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 309.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [6
 pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.306 \newpage
+l.309 \newpage
               ]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 358.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 361.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [7
 pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.358 \newpage
+l.361 \newpage
               ]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 368.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 371.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [8]
 <GRAFICOS/P1A.png, id=250, 383.031pt x 417.35925pt>
 File: GRAFICOS/P1A.png Graphic file (type png)
 <use GRAFICOS/P1A.png>
-Package pdftex.def Info: GRAFICOS/P1A.png  used on input line 376.
+Package pdftex.def Info: GRAFICOS/P1A.png  used on input line 379.
 (pdftex.def)             Requested size: 443.57848pt x 483.36647pt.
 
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 381.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 384.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [9
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.381 \newpage
+l.384 \newpage
                <./GRAFICOS/P1A.png>]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 386.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 389.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [10]
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 395.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 398.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [11] (main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--11
@@ -900,7 +900,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--176
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 401.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 404.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [13] (main.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -922,7 +922,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,16n,93p,830b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (15 pages, 435969 bytes).
+Output written on main.pdf (15 pages, 436312 bytes).
 PDF statistics:
  441 PDF objects out of 1000 (max. 8388607)
  82 named destinations out of 1000 (max. 500000)
