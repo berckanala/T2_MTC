@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  18 NOV 2024 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.8.8)  18 NOV 2024 18:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -846,57 +846,67 @@ File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 398.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
 [11] (main.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 4--11
-\OT1/cmtt/m/n/10 recursos / matematicas / apuntes / CATALOGO _ DE _ RENDIMIENTOS _ DE _ MANO _ DE _ OBRA . pdf$[][]\OT1/cmr/m/n/10 , 2024.
+Underfull \hbox (badness 10000) in paragraph at lines 17--20
+[]\OT1/cmr/m/n/10 Chilecubica.  Cu-bi-ca-cio-nes y ser-vi-cios.  [][]$\OT1/cmtt/m/n/10 https : / / www . chilecubica . com /
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 4--11
-\OT1/cmr/m/n/10 Dis-po-ni-ble en: [][]$\OT1/cmtt/m/n/10 https : / / www . cartagena99 . com / recursos / matematicas / apuntes / CATALOGO _
+Underfull \hbox (badness 1383) in paragraph at lines 33--38
+[]\OT1/cmr/m/n/10 Generador de Pre-cios.  Amc010 re-lleno y com-pac-ta-ci^^Son del te-rreno.  [][]$\OT1/cmtt/m/n/10 https : / / chile .
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 27--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--38
+\OT1/cmtt/m/n/10 generadordeprecios . info / rehabilitacion / Movimientos _ de _ tierra / Mejoramiento _ de _
+ []
+
+
+Underfull \hbox (badness 3068) in paragraph at lines 40--45
+[]\OT1/cmr/m/n/10 Generador de Pre-cios.  Amc010 re-lleno y com-pac-ta-ci^^Son del te-rreno.  [][]$\OT1/cmtt/m/n/10 http : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--45
+\OT1/cmtt/m/n/10 chile . generadordeprecios . info / obra _ nueva / Movimientos _ de _ tierra / Mejoramiento _
+ []
+
+
+Underfull \hbox (badness 1838) in paragraph at lines 47--52
+[]\OT1/cmr/m/n/10 Generador de Pre-cios.  Ba-se gra-nu-lar.  [][]$\OT1/cmtt/m/n/10 http : / / www . chile . generadordeprecios . info /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--52
+\OT1/cmtt/m/n/10 espacios _ urbanos / Firmes _ y _ pisos _ urbanos / Bases _ y _ subbases / Granulares / Base _
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 54--58
 []\OT1/cmr/m/n/10 Aridos Ma-de-sal.  Ba-se es-ta-bi-li-za-da cbr 80.  [][]$\OT1/cmtt/m/n/10 https : / / aridosmadesal . cl / producto /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--104
+[]\OT1/cmr/m/n/10 OndaC.  Pro-pie-dad en por-tal on-dac.  [][]$\OT1/cmtt/m/n/10 https : / / portal . ondac . com / 601 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--116
+[]\OT1/cmr/m/n/10 Studocu.  Ma-nual de ren-di-mien-to de mano de obra.  [][]$\OT1/cmtt/m/n/10 https : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--116
+\OT1/cmtt/m/n/10 studocu . com / cl / document / universidad-[]catolica-[]del-[]maule / construccion /
  []
 
 
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 138.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 116.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
-[12]
-Underfull \hbox (badness 10000) in paragraph at lines 161--167
-[]\OT1/cmr/m/n/10 OndaC.  Pro-pie-dad en por-tal on-dac.  [][]$\OT1/cmtt/m/n/10 https : / / portal . ondac . com / 601 /
- []
-
-
-Underfull \hbox (badness 1337) in paragraph at lines 161--167
-\OT1/cmtt/m/n/10 w3-[]propertyvalue-[]122724 . html$[][]\OT1/cmr/m/n/10 , 2024.  Dis-po-ni-ble en: [][]$\OT1/cmtt/m/n/10 https : / / portal . ondac . com / 601 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--176
-[]\OT1/cmr/m/n/10 Studocu.  Ma-nual de ren-di-mien-to de mano de obra.  [][]$\OT1/cmtt/m/n/10 https : / / www .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--176
-\OT1/cmtt/m/n/10 studocu . com / cl / document / universidad-[]catolica-[]del-[]maule / construccion /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--176
-\OT1/cmtt/m/n/10 manual-[]de-[]rendimiento-[]de-[]mano-[]de-[]obra / 99346579$[][]\OT1/cmr/m/n/10 , 2024.  Dis-po-ni-ble en: [][]$\OT1/cmtt/m/n/10 https :
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 169--176
-\OT1/cmtt/m/n/10 / / www . studocu . com / cl / document / universidad-[]catolica-[]del-[]maule / construccion /
- []
-
-)
+[12])
 
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
@@ -914,17 +924,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 71A4EEEEAB026D9F93A848164B9CA3CF;8282.
  ) 
 Here is how much of TeX's memory you used:
- 24315 strings out of 473899
- 447056 string characters out of 5726501
- 1953960 words of memory out of 5000000
- 46694 multiletter control sequences out of 15000+600000
- 561490 words of font info for 48 fonts, out of 8000000 for 9000
+ 24311 strings out of 473899
+ 446601 string characters out of 5726501
+ 1948960 words of memory out of 5000000
+ 46692 multiletter control sequences out of 15000+600000
+ 561836 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,16n,93p,830b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (15 pages, 436312 bytes).
+ 84i,16n,93p,830b,660s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\pedro\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/pedro/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on main.pdf (15 pages, 443233 bytes).
 PDF statistics:
- 441 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
+ 402 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
  327 words of extra memory for PDF output out of 10000 (max. 10000000)
 
