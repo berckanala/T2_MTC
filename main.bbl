@@ -13,6 +13,10 @@ CESMEC.
 \newblock \url{https://www.cesmec.cl/medios/DIC/Documentos/VOL_5_DIC_2010.pdf},
   2010.
 
+\bibitem{chilecubica2024}
+{Chile Cúbica}.
+\newblock {Análisis de Precios Unitarios (APU) y Estudio de Costos}, 2024.
+
 \bibitem{chilecubica_cubicaciones}
 Chilecubica.
 \newblock Cubicaciones y servicios.
@@ -28,8 +32,6 @@ Chilecúbica.
 Servicio de~Impuestos Internos~(SII).
 \newblock Valores de la utm 2024.
 \newblock \url{https://www.sii.cl/valores_y_fechas/utm/utm2024.htm}, 2024.
-\newblock Disponible en:
-  \url{https://www.sii.cl/valores_y_fechas/utm/utm2024.htm}.
 
 \bibitem{ref11}
 Cámara~Chilena de~la Construcción~(CChC).
@@ -108,6 +110,14 @@ OndaC.
 \newblock Propiedad en portal ondac.
 \newblock \url{https://portal.ondac.com/601/w3-propertyvalue-122724.html},
   2024.
+
+\bibitem{ondac2024}
+{Ondac Portal}.
+\newblock {Análisis de Obras de Construcción Civil}, 2024.
+
+\bibitem{ondac_property2024}
+{Ondac Portal}.
+\newblock {Propiedades y Valores en Obras de Construcción Civil}, 2024.
 
 \bibitem{construction_planning_methods}
 Robert~L. Peurifoy, Clifford~J. Schexnayder, Aviad Shapira, and Robert Schmitt.
