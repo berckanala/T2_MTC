@@ -1,5 +1,5 @@
 # Fdb version 4
-["bibtex main"] 1731943744.83488 "main.aux" "main.bbl" "main" 1731943756.91687 0
+["bibtex main"] 1731943744.83488 "main.aux" "main.bbl" "main" 1731959631.87394 0
   "./referencias.bib" 1731943298 6922 7713ea1baeb4e497cb8167b1f8afb5af ""
   "C:/Users/A/Desktop/Programar/miketex/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "main.aux" 1731942767 6429 e438340df5e2ae54d0bd6578993ff541 ""
@@ -7,7 +7,7 @@
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1731943754.22711 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" "build/main.pdf" "main" 1731943756.91724 0
+["pdflatex"] 1731959621.07087 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" "build/main.pdf" "main" 1731959631.87465 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730821043 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1724874261 12124 f42477aff5ac649024f59cf521f4ca54 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1722890009 11548 068e7275f20c22bf76bbb3e7ea995c7a ""
@@ -169,12 +169,12 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "GRAFICOS/P1A.png" 1731632567 63037 e28f936622218b210ae53e163a6e7040 ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/main.aux" 1731943755 7097 3e2cf7cf1e65953ab583061bf3435c9f "pdflatex"
-  "build/main.out" 1731943755 8109 999fcb885d3e87f1d037267bf6cef672 "pdflatex"
-  "build/main.toc" 1731943755 3742 2ce1b71fc607d95fe23c58bf940d3115 "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" 1731943753 23531 e542c40510350128be1b66a9b8d0925a ""
+  "build/main.aux" 1731959628 7091 25fd43c3f455c300264e75f04ffef048 "pdflatex"
+  "build/main.out" 1731959628 8109 d9c3012f743f2b65212923c8939dc9ac "pdflatex"
+  "build/main.toc" 1731959628 3742 c7e854864c92ecf1f420c512e87a7e6b "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" 1731959618 23731 c80eb64368d9ecff385643953f004c84 ""
   "main.bbl" 1731943745 6204 4f52a73c582436dd467451a34953fe4e "bibtex main"
-  "main.tex" 1731943753 23531 e542c40510350128be1b66a9b8d0925a ""
+  "main.tex" 1731959618 23731 c80eb64368d9ecff385643953f004c84 ""
   (generated)
   "build/main.aux"
   "build/main.log"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.19)  18 NOV 2024 12:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.3.19)  18 NOV 2024 16:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -770,36 +770,36 @@ Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 243.
 <GRAFICOS/P1A.png, id=230, 383.031pt x 417.35925pt>
 File: GRAFICOS/P1A.png Graphic file (type png)
 <use GRAFICOS/P1A.png>
-Package pdftex.def Info: GRAFICOS/P1A.png  used on input line 249.
+Package pdftex.def Info: GRAFICOS/P1A.png  used on input line 251.
 (pdftex.def)             Requested size: 443.57848pt x 483.36647pt.
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 263.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 265.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
  [6
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.263 \newpage
+l.265 \newpage
                <./GRAFICOS/P1A.png>]
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 314.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 317.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
  [7
 pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.314 \newpage
+l.317 \newpage
               ]
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 319.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 322.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
  [8]
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 328.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 331.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
  [9] (main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--11
@@ -853,7 +853,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--176
 )
 File: LOGO_UNIVERSIDAD.jpg Graphic file (type jpg)
 <use LOGO_UNIVERSIDAD.jpg>
-Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 334.
+Package pdftex.def Info: LOGO_UNIVERSIDAD.jpg  used on input line 337.
 (pdftex.def)             Requested size: 110.8946pt x 40.20973pt.
  [11] (c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.aux
 LaTeX Info: Redefining \. on input line 11.
@@ -864,7 +864,7 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 999FCB885D3E87F1D037267BF6CEF672;8109.
+(rerunfilecheck)             Checksum: D9C3012F743F2B65212923C8939DC9AC;8109.
  ) 
 Here is how much of TeX's memory you used:
  24209 strings out of 474486
@@ -875,7 +875,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  84i,16n,93p,800b,652s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\A\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1000.pk> <C:\Users\A\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.pdf" (13 pages, 427892 bytes).
+Output written on "c:\Users\A\Desktop\Uandes\8vo_semestre\Metodos constructivos\T2_MTC\build\main.pdf" (13 pages, 428076 bytes).
 PDF statistics:
  425 PDF objects out of 1000 (max. 8388607)
  77 named destinations out of 1000 (max. 500000)

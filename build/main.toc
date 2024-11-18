@@ -30,7 +30,7 @@
 \contentsline {subsubsection}{\numberline {2.4.12}Sala residuos (m²)}{4}{subsubsection.2.4.12}%
 \contentsline {subsubsection}{\numberline {2.4.13}Cierre Perimetral Acmaford (ml)}{4}{subsubsection.2.4.13}%
 \contentsline {subsubsection}{\numberline {2.4.14}Cierre Perimetral Bulldog (ml)}{4}{subsubsection.2.4.14}%
-\contentsline {section}{\numberline {3}Planemaiento de Actividades}{5}{section.3}%
+\contentsline {section}{\numberline {3}Planeamiento de Actividades}{5}{section.3}%
 \contentsline {section}{\numberline {4}Programación de Actividades}{6}{section.4}%
 \contentsline {section}{\numberline {5}Precios Unitarios}{7}{section.5}%
 \contentsline {section}{\numberline {6}Estado de Pago}{8}{section.6}%
