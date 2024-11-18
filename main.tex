@@ -386,6 +386,48 @@ A continuación, se presentan los avances al 5\%, 15\%, 25\%, 50\% y 75\% de la 
 
 El estado de pago es un documento que se utiliza para llevar un control de los pagos que se deben realizar en una obra, en este caso se presentan los estados de pago al 15\% y 35\% de avance de la obra. Esto es un pago que se realiza a los contratistas por el trabajo realizado en la obra, donde se ve un avance financiero de la obra, asi siguiendo los gastos y pagos de la obra. Esta se paga en base a ciertas partidas especificas que representan el avance en cierto porcentaje de la obra. Para esto se calculan los precios totales de la partida, incluyendo los gastos generales y utilidad. Luego se calcula el porcentaje de avance de la obra y se calcula el monto a pagar en base a este porcentaje.
 
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|}
+    \hline
+    \textbf{Mes} & \textbf{Valor} \\ \hline
+    Enero       & 102.72         \\ \hline
+    Octubre     & 105.56         \\ \hline
+    \end{tabular}
+    \caption{Valores del IPC por mes}
+    \label{tabla:valores_mes}
+\end{table}
+
+Lo que deja una relación de 0.0269041 entre los valores de los meses, lo que indica que el valor de octubre es un 2.69\% mayor que el de enero. En este caso se utilizo el IPC de octubre ya que el de noviembre aun no esta dusponible.
+
+Luego el monto reajustado queda para los avances de 15\% y 35\% respectivamente:
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|}
+    \hline
+    \textbf{Avance (\%)} & \textbf{Valor} \\ \hline
+    15\%       & 15064211         \\ \hline
+    35\%     & 20085615         \\ \hline
+    \end{tabular}
+    \caption{Reajustes segun el IPC}
+    \label{tabla:reajuste}
+\end{table}
+
+Lo que queda en:
+
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|c|c|}
+    \hline
+    \textbf{Avance (\%)} & \textbf{Valor inicial}  &  \textbf{Valor reajustado}\\ \hline
+    15\%       & 560007846 & 575072056      \\ \hline
+    35\%     & 746677127 &  766762743     \\ \hline
+    \end{tabular}
+    \caption{Valores de los estados de pago} reajustados
+    \label{tabla:reajustado}
+\end{table}
+    
 \newpage
 \section{Conclusión}
 
@@ -393,7 +435,7 @@ Este informe presentó un análisis de la programación, valorización y seguimi
 
 La estimación de rendimientos sirve para calcular tiempos y asignar cuadrillas y maquinaria de forma adecuada. Por otro lado, la valorización de partidas, mediante los precios unitarios, permitió proyectar el costo total del proyecto considerando materiales, mano de obra, maquinaria y posibles pérdidas.
 
-Los estados de pago al 15 \% y 35 \% del avance simpllifican el control financiero y lo dejan claro, asegurando la relación entre el progreso físico y los pagos realizados. Esto ayudó a mantener la transparencia y prever posibles ajustes en el presupuesto.
+Los estados de pago al 15 \% y 35 \% del avance simplifican el control financiero y lo dejan claro, asegurando la relación entre el progreso físico y los pagos realizados. Esto ayudó a mantener la transparencia y prever posibles ajustes en el presupuesto.
 
 \newpage
 \section{Referencias}
