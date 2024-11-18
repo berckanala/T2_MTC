@@ -1,5 +1,37 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
-\contentsline {section}{\numberline {2}Programación de Actividades}{2}{section.2}%
-\contentsline {section}{\numberline {3}Precios Unitarios}{3}{section.3}%
-\contentsline {section}{\numberline {4}Estado de Pago}{3}{section.4}%
+\contentsline {section}{\numberline {2}Rendimientos}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Movimiento de tierras, funadaciones y vialidad}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Excavación a TCN Caminos y Bodegas}{2}{subsubsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.2}Mejoramiento Fundaciones con integral natural}{2}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Relleno Estructural bajo 2 y 6 pulgadas (entre Fundaciones hasta Subrasante)}{2}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Formación y Construcción de Terraplenes (m³)}{2}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Preparación de la Subrasante}{2}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Base Granular CBR (m³)}{2}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Remoción de Pavimento Asfáltico (m²)}{2}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Excavación en Terreno de Cualquier Naturaleza (TCN) (m³)}{2}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Hormigón}{2}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Acero para armaduras A63-42H}{3}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}Demolición de Aceras ($m²$)}{3}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}Remoción de Soleras (m)}{3}{subsubsection.2.3.7}%
+\contentsline {subsubsection}{\numberline {2.3.8}Solera Tipo A (m)}{3}{subsubsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.4}Estructuras, revestiientos y terminaciones}{3}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Estructura Metálica Montado y Pintado (Kg)}{3}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Aislación (m²)}{3}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Divisiones interiores bodegas (m²)}{3}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Oficionas (m²)}{3}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Drenes (Cubodren) ($m^3$)}{4}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}Portones Bodegas (N°)}{4}{subsubsection.2.4.6}%
+\contentsline {subsubsection}{\numberline {2.4.7}Puertas exteriores (N°)}{4}{subsubsection.2.4.7}%
+\contentsline {subsubsection}{\numberline {2.4.8}Muros cortinas, ventanas y puertas vidriadas (m²)}{4}{subsubsection.2.4.8}%
+\contentsline {subsubsection}{\numberline {2.4.9}Porteria Acogida, bicicletero y barrera acceso (m²)}{4}{subsubsection.2.4.9}%
+\contentsline {subsubsection}{\numberline {2.4.10}Sala eléctrica (m²)}{4}{subsubsection.2.4.10}%
+\contentsline {subsubsection}{\numberline {2.4.11}Sala de agua potable (m²)}{4}{subsubsection.2.4.11}%
+\contentsline {subsubsection}{\numberline {2.4.12}Sala residuos (m²)}{4}{subsubsection.2.4.12}%
+\contentsline {subsubsection}{\numberline {2.4.13}Cierre Perimetral Acmaford (ml)}{4}{subsubsection.2.4.13}%
+\contentsline {subsubsection}{\numberline {2.4.14}Cierre Perimetral Bulldog (ml)}{4}{subsubsection.2.4.14}%
+\contentsline {section}{\numberline {3}Planemaiento de Actividades}{5}{section.3}%
+\contentsline {section}{\numberline {4}Programación de Actividades}{6}{section.4}%
+\contentsline {section}{\numberline {5}Precios Unitarios}{7}{section.5}%
+\contentsline {section}{\numberline {6}Estado de Pago}{7}{section.6}%
+\contentsline {section}{\numberline {7}Conclusión}{9}{section.7}%
