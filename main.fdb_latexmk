@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1731964868.89689 "main.aux" "main.bbl" "main" 1731964871.11717 0
+["bibtex main"] 1731964868.89689 "main.aux" "main.bbl" "main" 1731965007.18999 0
   "./referencias.bib" 1731963679 4593 da087d937b8df55b071fe8a6c5325f81 ""
   "C:/Users/pedro/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1731964870 8125 ca6440650af87d551bdae052f3eb8665 "pdflatex"
+  "main.aux" 1731965006 8125 ca6440650af87d551bdae052f3eb8665 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1731964869.1811 "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" "main.pdf" "main" 1731964871.11791 0
+["pdflatex"] 1731965005.12231 "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" "main.pdf" "main" 1731965007.19069 0
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731682955 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1727641525 12124 aad1917e45aa909f2bbea30f42a00f38 ""
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723153317 11548 283e5f25dea57f2f6c4c1ba3bb2d77d8 ""
@@ -171,12 +171,12 @@
   "C:/Users/pedro/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "GRAFICOS/P1A.png" 1731637538 63037 e28f936622218b210ae53e163a6e7040 ""
   "LOGO_UNIVERSIDAD.jpg" 1731637538 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" 1731964726 29585 2145492db7b42f050fc59b4a4d2fc384 ""
-  "main.aux" 1731964870 8125 ca6440650af87d551bdae052f3eb8665 "pdflatex"
+  "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" 1731965004 29692 57e638f084b2dba4d762979fea113778 ""
+  "main.aux" 1731965006 8125 ca6440650af87d551bdae052f3eb8665 "pdflatex"
   "main.bbl" 1731964869 3870 1ccce826cc5377d507afb56f8a85e748 "bibtex main"
-  "main.out" 1731964870 8282 71a4eeeeab026d9f93a848164b9ca3cf "pdflatex"
-  "main.tex" 1731964726 29585 2145492db7b42f050fc59b4a4d2fc384 ""
-  "main.toc" 1731964870 3825 8841d4cfd7c1c5b6f35e8e01ee9d47ba "pdflatex"
+  "main.out" 1731965006 8282 71a4eeeeab026d9f93a848164b9ca3cf "pdflatex"
+  "main.tex" 1731965004 29692 57e638f084b2dba4d762979fea113778 ""
+  "main.toc" 1731965006 3825 8841d4cfd7c1c5b6f35e8e01ee9d47ba "pdflatex"
   (generated)
   "main.aux"
   "main.log"
