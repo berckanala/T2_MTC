@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex main"] 1731895240.32533 "main.aux" "main.bbl" "main" 1731895242.44626 0
-  "./referencias.bib" 1731895239 2317 157259de0b8a4e64c0083cab54ef738d ""
+["bibtex main"] 1731962560.70419 "main.aux" "main.bbl" "main" 1731962563.78884 0
+  "./referencias.bib" 1731952378 6922 7713ea1baeb4e497cb8167b1f8afb5af ""
   "C:/Users/pedro/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1731895241 6364 3ec3707ab29ac5abafc34ffe0d55e542 "pdflatex"
+  "main.aux" 1731962562 7695 3ac8f05c44c37b160243e83edc6a305d "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1731895240.61295 "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" "main.pdf" "main" 1731895242.447 0
+["pdflatex"] 1731962561.10452 "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" "main.pdf" "main" 1731962563.78991 0
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731682955 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1727641525 12124 aad1917e45aa909f2bbea30f42a00f38 ""
   "C:/Users/pedro/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1723153317 11548 283e5f25dea57f2f6c4c1ba3bb2d77d8 ""
@@ -169,12 +169,12 @@
   "C:/Users/pedro/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "GRAFICOS/P1A.png" 1731637538 63037 e28f936622218b210ae53e163a6e7040 ""
   "LOGO_UNIVERSIDAD.jpg" 1731637538 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" 1731895159 23475 972476c58436f2c1ff644178b4fd4ba2 ""
-  "main.aux" 1731895241 6364 3ec3707ab29ac5abafc34ffe0d55e542 "pdflatex"
-  "main.bbl" 1731895240 1474 a70b410cd32a2fcadcc9d98b14700cae "bibtex main"
-  "main.out" 1731895241 8112 fe3d1c0b68e52e39d421b4dadf81c817 "pdflatex"
-  "main.tex" 1731895159 23475 972476c58436f2c1ff644178b4fd4ba2 ""
-  "main.toc" 1731895241 3742 c63508563921f9a791d8327c400ce8c4 "pdflatex"
+  "c:/Users/pedro/OneDrive/Escritorio/Semestre VIII/Metodos y Tecnicas de Construccion/T2_MTC/T2_MTC/main.tex" 1731962561 27823 2bbfd83af85536989296efe2f070757f ""
+  "main.aux" 1731962562 7695 3ac8f05c44c37b160243e83edc6a305d "pdflatex"
+  "main.bbl" 1731962560 6204 4f52a73c582436dd467451a34953fe4e "bibtex main"
+  "main.out" 1731962562 8282 71a4eeeeab026d9f93a848164b9ca3cf "pdflatex"
+  "main.tex" 1731962561 27823 2bbfd83af85536989296efe2f070757f ""
+  "main.toc" 1731962562 3825 8841d4cfd7c1c5b6f35e8e01ee9d47ba "pdflatex"
   (generated)
   "main.aux"
   "main.log"
