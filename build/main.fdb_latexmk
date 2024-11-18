@@ -1,5 +1,13 @@
 # Fdb version 4
-["pdflatex"] 1731878346.56128 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" "build/main.pdf" "main" 1731878348.41049 0
+["bibtex main"] 1731943744.83488 "main.aux" "main.bbl" "main" 1731943756.91687 0
+  "./referencias.bib" 1731943298 6922 7713ea1baeb4e497cb8167b1f8afb5af ""
+  "C:/Users/A/Desktop/Programar/miketex/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
+  "main.aux" 1731942767 6429 e438340df5e2ae54d0bd6578993ff541 ""
+  (generated)
+  "main.bbl"
+  "main.blg"
+  (rewritten before read)
+["pdflatex"] 1731943754.22711 "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" "build/main.pdf" "main" 1731943756.91724 0
   "C:/Users/A/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730821043 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1724874261 12124 f42477aff5ac649024f59cf521f4ca54 ""
   "C:/Users/A/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1722890009 11548 068e7275f20c22bf76bbb3e7ea995c7a ""
@@ -11,6 +19,7 @@
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/cm/cmr17.tfm" 1136765053 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "C:/Users/A/Desktop/Programar/miketex/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -18,6 +27,7 @@
   "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr5.pfb" 1247596667 31809 8670ca339bf94e56da1fc21c80635e2a ""
   "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
+  "C:/Users/A/Desktop/Programar/miketex/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/A/Desktop/Programar/miketex/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/A/Desktop/Programar/miketex/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/A/Desktop/Programar/miketex/tex/generic/babel/babel.sty" 1704647332 150008 7a05b0fdc0167c04e192003e780ab195 ""
@@ -159,11 +169,12 @@
   "C:/Users/A/Desktop/Programar/miketex/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "GRAFICOS/P1A.png" 1731632567 63037 e28f936622218b210ae53e163a6e7040 ""
   "LOGO_UNIVERSIDAD.jpg" 1725225541 209820 2134e729a4493a99d3d34c719af1eecf ""
-  "build/main.aux" 1731878348 5797 88429379274208ac9dc07788b57682f6 "pdflatex"
-  "build/main.out" 1731878348 7916 3c9378a8448c6043646a774d095424bf "pdflatex"
-  "build/main.toc" 1731878348 3607 572497e0b0a0760068d24ce6c8234c2a "pdflatex"
-  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" 1731878345 22281 1587b1aa6aa8b4a77fb46847380bfa07 ""
-  "main.tex" 1731878345 22281 1587b1aa6aa8b4a77fb46847380bfa07 ""
+  "build/main.aux" 1731943755 7097 3e2cf7cf1e65953ab583061bf3435c9f "pdflatex"
+  "build/main.out" 1731943755 8109 999fcb885d3e87f1d037267bf6cef672 "pdflatex"
+  "build/main.toc" 1731943755 3742 2ce1b71fc607d95fe23c58bf940d3115 "pdflatex"
+  "c:/Users/A/Desktop/Uandes/8vo_semestre/Metodos constructivos/T2_MTC/main.tex" 1731943753 23531 e542c40510350128be1b66a9b8d0925a ""
+  "main.bbl" 1731943745 6204 4f52a73c582436dd467451a34953fe4e "bibtex main"
+  "main.tex" 1731943753 23531 e542c40510350128be1b66a9b8d0925a ""
   (generated)
   "build/main.aux"
   "build/main.log"

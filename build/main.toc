@@ -12,7 +12,7 @@
 \contentsline {subsubsection}{\numberline {2.3.3}Excavación en Terreno de Cualquier Naturaleza (TCN) (m³)}{2}{subsubsection.2.3.3}%
 \contentsline {subsubsection}{\numberline {2.3.4}Hormigón}{2}{subsubsection.2.3.4}%
 \contentsline {subsubsection}{\numberline {2.3.5}Acero para armaduras A63-42H}{3}{subsubsection.2.3.5}%
-\contentsline {subsubsection}{\numberline {2.3.6}Demolición de Aceras ($m²$)}{3}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.6}Demolición de Aceras ($m^2$)}{3}{subsubsection.2.3.6}%
 \contentsline {subsubsection}{\numberline {2.3.7}Remoción de Soleras (m)}{3}{subsubsection.2.3.7}%
 \contentsline {subsubsection}{\numberline {2.3.8}Solera Tipo A (m)}{3}{subsubsection.2.3.8}%
 \contentsline {subsection}{\numberline {2.4}Estructuras, revestiientos y terminaciones}{3}{subsection.2.4}%
@@ -33,4 +33,6 @@
 \contentsline {section}{\numberline {3}Planemaiento de Actividades}{5}{section.3}%
 \contentsline {section}{\numberline {4}Programación de Actividades}{6}{section.4}%
 \contentsline {section}{\numberline {5}Precios Unitarios}{7}{section.5}%
-\contentsline {section}{\numberline {6}Estado de Pago}{7}{section.6}%
+\contentsline {section}{\numberline {6}Estado de Pago}{8}{section.6}%
+\contentsline {section}{\numberline {7}Conclusión}{9}{section.7}%
+\contentsline {section}{\numberline {8}Referencias}{10}{section.8}%

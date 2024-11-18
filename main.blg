@@ -5,61 +5,44 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 16 items.
 Database file #1: referencias.bib
-Warning--entry type for "ref1" isn't style-file defined
---line 1 of file referencias.bib
-Warning--entry type for "ref2" isn't style-file defined
---line 17 of file referencias.bib
-Warning--entry type for "ref3" isn't style-file defined
---line 33 of file referencias.bib
-Warning--entry type for "ref4" isn't style-file defined
---line 49 of file referencias.bib
-Warning--entry type for "ref5" isn't style-file defined
---line 65 of file referencias.bib
-Warning--entry type for "ref6" isn't style-file defined
---line 81 of file referencias.bib
-Warning--entry type for "ref7" isn't style-file defined
---line 97 of file referencias.bib
-Warning--entry type for "ref8" isn't style-file defined
---line 113 of file referencias.bib
-You've used 8 entries,
+You've used 24 entries,
             2118 wiz_defined-function locations,
-            523 strings with 4913 characters,
-and the built_in function-call counts, 1668 in all, are:
-= -- 152
-> -- 56
+            585 strings with 7969 characters,
+and the built_in function-call counts, 5230 in all, are:
+= -- 528
+> -- 168
 < -- 0
-+ -- 24
-- -- 16
-* -- 50
-:= -- 281
-add.period$ -- 24
-call.type$ -- 8
-change.case$ -- 32
++ -- 72
+- -- 48
+* -- 146
+:= -- 899
+add.period$ -- 96
+call.type$ -- 24
+change.case$ -- 96
 chr.to.int$ -- 0
-cite$ -- 8
-duplicate$ -- 56
-empty$ -- 177
-format.name$ -- 16
-if$ -- 361
+cite$ -- 24
+duplicate$ -- 168
+empty$ -- 529
+format.name$ -- 48
+if$ -- 1153
 int.to.chr$ -- 0
-int.to.str$ -- 8
+int.to.str$ -- 24
 missing$ -- 0
-newline$ -- 43
-num.names$ -- 16
-pop$ -- 72
+newline$ -- 147
+num.names$ -- 48
+pop$ -- 192
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 72
 quote$ -- 0
-skip$ -- 56
+skip$ -- 143
 stack$ -- 0
-substring$ -- 40
-swap$ -- 8
+substring$ -- 120
+swap$ -- 24
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 32
+type$ -- 96
 warning$ -- 0
-while$ -- 16
-width$ -- 9
-write$ -- 82
-(There were 8 warnings)
+while$ -- 48
+width$ -- 26
+write$ -- 290
